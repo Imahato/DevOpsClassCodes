@@ -156,9 +156,9 @@
 	    	 <dependency>
   			 <groupId>com.sun</groupId>
   			 <artifactId>tools</artifactId>
-  			 <version>1.6</version>
+  			 <version>1.8</version>
   			 <scope>system</scope>
- 			 <systemPath>C:\Program Files\Java\jdk-1.8\lib</systemPath>
+ 			 <systemPath>C:\Program Files\Java\jdk-1.8\lib\tools.jar</systemPath>
 		 </dependency>
 
 
